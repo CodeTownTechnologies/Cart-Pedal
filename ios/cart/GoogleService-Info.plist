@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>925496428725-3rr865ol9efj9227klp7tr6p41e6deie.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.925496428725-3rr865ol9efj9227klp7tr6p41e6deie</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>925496428725-aliqh3j3dkh1e4rpp2cn09u83nrmg8s7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCx8iGzzbCwMN1filt1muTv3OnjHrQeslA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>925496428725</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ios.cartpadle</string>
+	<key>PROJECT_ID</key>
+	<string>cartpadle-92406</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cartpadle-92406.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:925496428725:ios:4782b48a2785be560896fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://cartpadle-92406.firebaseio.com</string>
+</dict>
+</plist>

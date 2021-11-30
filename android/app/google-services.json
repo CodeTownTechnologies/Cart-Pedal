@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "925496428725",
+    "firebase_url": "https://cartpadle-92406.firebaseio.com",
+    "project_id": "cartpadle-92406",
+    "storage_bucket": "cartpadle-92406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925496428725:android:50ec3c6eaee254e90896fc",
+        "android_client_info": {
+          "package_name": "in.cartpedal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925496428725-iagsc9l8kjjr7q2nbek42skmev5g5478.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cartpedal",
+            "certificate_hash": "a23d3d3bb6c55e2c04b5ac23cabeffc8621fe82a"
+          }
+        },
+        {
+          "client_id": "925496428725-ntf1i18no8oulep4olofmap9v8deai9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cartpedal",
+            "certificate_hash": "1544a22ab5531f9de2d6d7b47abf2271cb2904e4"
+          }
+        },
+        {
+          "client_id": "925496428725-pc2em6ndfr4u43quicd0ld5t0fvv9d2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cartpedal",
+            "certificate_hash": "d938288f9f34124f4d3e66bb8f60d18d73631aa3"
+          }
+        },
+        {
+          "client_id": "925496428725-ek7n2g2027rd82e149njpk259mdv7k19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQfmmQ3BM-aISoaczeOmAufCnCtpNTuB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925496428725-ek7n2g2027rd82e149njpk259mdv7k19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925496428725-3rr865ol9efj9227klp7tr6p41e6deie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.cartpadle",
+                "app_store_id": "1539321365"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
